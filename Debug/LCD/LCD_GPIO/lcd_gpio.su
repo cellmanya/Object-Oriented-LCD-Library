@@ -1,0 +1,12 @@
+lcd_gpio.c:18:20:LCD_GPIO_PulseEnable	24	static
+lcd_gpio.c:36:13:LCD_GPIO_Write	24	static
+lcd_gpio.c:70:16:LCD_GPIO_CheckBusy	40	static
+lcd_gpio.c:127:13:LCD_GPIO_WriteCommand	24	static
+lcd_gpio.c:153:13:LCD_GPIO_PrintString	24	static
+lcd_gpio.c:189:13:LCD_GPIO_PrintNumber	40	static
+lcd_gpio.c:206:13:LCD_GPIO_PrintChar	24	static
+lcd_gpio.c:233:13:LCD_GPIO_GoTo	24	static
+lcd_gpio.c:253:13:LCD_GPIO_DefChar	32	static
+lcd_gpio.c:265:20:LCD_GPIO_ReturnHome	16	static
+lcd_gpio.c:271:20:LCD_GPIO_Clear	16	static
+lcd_gpio.c:278:6:LCD_GPIO_Constructor	24	static

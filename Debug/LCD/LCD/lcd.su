@@ -1,0 +1,10 @@
+lcd.c:16:13:LCD_WriteCommand	16	static
+lcd.c:21:13:LCD_Write	16	static
+lcd.c:26:13:LCD_PrintString	16	static
+lcd.c:31:13:LCD_PrintNumber	24	static
+lcd.c:36:13:LCD_PrintChar	16	static
+lcd.c:41:13:LCD_GoTo	16	static
+lcd.c:46:13:LCD_DefChar	24	static
+lcd.c:51:13:LCD_ReturnHome	16	static
+lcd.c:56:13:LCD_Clear	16	static
+lcd.c:61:6:LCD_Constructor	16	static
